@@ -9,6 +9,7 @@ import AppDashboard from './screens/App';
 import Home from "./screens/Home";
 import Signin from "./screens/Signin";
 import Signup from "./screens/Signup";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 export const event = new EventEmitter()
 
